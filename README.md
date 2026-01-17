@@ -1,97 +1,427 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=220&section=header&text=Moataz%20Abdullah%20Al-Triki&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=Moataz%20Abdullah%20Al-Triki&fontSize=60&fontColor=E6EDF3&animation=fadeIn&desc=Artificial%20Intelligence%20%26%20Data%20Science&descSize=25&descAlign=50&descAlignY=65&stroke=0099ff&strokeWidth=2" alt="header" />
+
+  <br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=First+Year+Student+%40+Al-Jazeera+University+%F0%9F%87%YE;Passionate+about+Coding+%26+Problem+Solving+%F0%9F%A7%A9;Coding+in+Python+Since+High+School+%F0%9F%90%8D;Building+Smart+Solutions+with+Data+%F0%9F%93%8A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Student+at+Al-Jazeera+University%2C+Yemen+%F0%9F%87%YE;Coding+elegance+since+High+School+%F0%9F%90%8D;Data+Science+%7C+AI+%7C+Problem+Solving;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
   </a>
 
 </div>
 
 <br>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="55%" valign="top">
-      <h3>👨‍💻 About Me & My Passion</h3>
-      <p>
-        I am <b>Moataz Abdullah Al-Triki</b>, a curious mind from <b>Ibb, Yemen</b> 🇾🇪.
-        <br>
-        Currently studying <b>AI & Data Science</b> at <a href="#">Al-Jazeera University</a>.
-      </p>
+    <td width="60%" valign="top">
+      <h3>👨‍⚖️ Professional Summary</h3>
+      <blockquote>
+        "An ambitious <b>AI & Data Science</b> undergraduate at <b>Al-Jazeera University</b>. My journey started early with Python in high school, evolving into a passion for solving complex problems through algorithms and data."
+      </blockquote>
       
-      <p>
-        <b>🚀 What drives me?</b>
-        <br>
-        I don't just write code; I love understanding <i>how</i> things work.
-      </p>
-
+      <p><b>🎓 Academic Focus:</b></p>
       <ul>
-        <li>🧩 <b>Problem Solving:</b> I enjoy cracking complex algorithms and logical puzzles.</li>
-        <li>📚 <b>Reading & Research:</b> Constantly exploring new tech trends and deep-diving into books.</li>
-        <li>💻 <b>Programming:</b> Writing clean, efficient code is my daily hobby.</li>
+        <li><b>Major:</b> Artificial Intelligence & Data Science (B.Sc.)</li>
+        <li><b>Institution:</b> Al-Jazeera University, Ibb - Yemen 🇾🇪</li>
+        <li><b>Current Status:</b> First Year (Freshman)</li>
       </ul>
 
-      <p>🌱 <b>Current Focus:</b> Mastering Python, C++, and Calculus.</p>
+      <p><b>🧠 Core Interests:</b></p>
+      <code>Artificial Intelligence</code> . <code>Data Analysis</code> . <code>Research</code> . <code>Reading</code>
+
     </td>
     
-    <td width="45%" valign="top">
-      <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Moataz-Altriki&show_icons=true&theme=algolia&hide_border=true&count_private=true&hide=contribs" width="100%" />
+    <td width="40%" valign="top">
+      <h3>📈 Live Analytics</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=Moataz-Altriki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="100%" />
       <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moataz-Altriki&layout=compact&theme=algolia&hide_border=true" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moataz-Altriki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="100%" />
     </td>
   </tr>
 </table>
 
 <br>
+<hr style="border: 1px solid #30363D;" />
+<br>
 
-<h3 align="center">🎓 My Academic Roadmap (B.Sc. in AI & Data Science)</h3>
-[span_0](start_span)<p align="center"><i>Comprehensive Curriculum - Al-Jazeera University[span_0](end_span)</i></p>
+<h2 align="center">📜 Comprehensive Academic Curriculum</h2>
+<p align="center"><i>B.Sc. in Artificial Intelligence & Data Science</i></p>
 
 <div align="center">
   
   <details>
-    <summary><b>🕐 Level 1: Foundation Year (Current)</b></summary>
+    <summary><h3>&nbsp;&nbsp;🕐 Level 1: The Foundation (Current Stage)</h3></summary>
     <br>
-    <table width="100%">
+    <table width="95%">
       <tr>
-        <th width="50%">Term 1 (Semester 1) 🔄</th>
-        <th width="50%">Term 2 (Semester 2) ⏳</th>
+        <th width="50%">Term 1 (Semester 1) 🟡 In Progress</th>
+        <th width="50%">Term 2 (Semester 2) ⏳ Upcoming</th>
       </tr>
       <tr>
         <td valign="top">
-          [span_1](start_span)• Programming Fundamentals & Problem Solving[span_1](end_span)<br>
-          [span_2](start_span)• Computer Fundamentals[span_2](end_span)<br>
-          [span_3](start_span)• Mathematics (1)[span_3](end_span)<br>
-          [span_4](start_span)• English Language (1)[span_4](end_span)<br>
-          [span_5](start_span)• Arabic Language (1)[span_5](end_span)<br>
-          [span_6](start_span)• Islamic Culture[span_6](end_span)<br>
-          [span_7](start_span)• National Culture[span_7](end_span)
+          1. Programming Fundamentals & Problem Solving<br>
+          2. Computer Fundamentals<br>
+          3. Mathematics (1)<br>
+          4. English Language (1)<br>
+          5. Arabic Language (1)<br>
+          6. Islamic Culture<br>
+          7. National Culture
         </td>
         <td valign="top">
-          [span_8](start_span)• Computer Programming[span_8](end_span)<br>
-          [span_9](start_span)• Computer Networks[span_9](end_span)<br>
-          [span_10](start_span)• Statistics & Probability[span_10](end_span)<br>
-          [span_11](start_span)• Mathematics (2)[span_11](end_span)<br>
-          [span_12](start_span)• English Language (2)[span_12](end_span)<br>
-          [span_13](start_span)• Arabic Language (2)[span_13](end_span)
+          1. Computer Programming<br>
+          2. Computer Networks<br>
+          3. Statistics & Probability<br>
+          4. Mathematics (2)<br>
+          5. English Language (2)<br>
+          6. Arabic Language (2)
         </td>
       </tr>
     </table>
   </details>
 
   <details>
-    <summary><b>🕑 Level 2: Core Engineering & Data Basics</b></summary>
+    <summary><h3>&nbsp;&nbsp;🕑 Level 2: Engineering Core</h3></summary>
     <br>
-    <table width="100%">
+    <table width="95%">
       <tr>
         <th width="50%">Term 1 (Semester 3)</th>
         <th width="50%">Term 2 (Semester 4)</th>
       </tr>
       <tr>
         <td valign="top">
-          [span_14](start_span)• Object-Oriented Programming (OOP)[span_14](end_span)<br>
+          • Object-Oriented Programming (OOP)<br>
+          • Data Structures & Algorithms 🧬<br>
+          • Database Systems<br>
+          • Principles of Artificial Intelligence 🤖<br>
+          • Fundamentals of Data Science<br>
+          • Discrete Mathematics<br>
+          • Linear Algebra
+        </td>
+        <td valign="top">
+          • Machine Learning 🧠<br>
+          • Analysis & Design of Algorithms<br>
+          • Data Science Analysis<br>
+          • Web Design<br>
+          • Systems Analysis & Design<br>
+          • Human-Computer Interaction (HCI)<br>
+          • Communication Skills
+        </td>
+      </tr>
+    </table>
+  </details>
+
+  <details>
+    <summary><h3>&nbsp;&nbsp;🕒 Level 3: Advanced Specialization</h3></summary>
+    <br>
+    <table width="95%">
+      <tr>
+        <th width="50%">Term 1 (Semester 5)</th>
+        <th width="50%">Term 2 (Semester 6)</th>
+      </tr>
+      <tr>
+        <td valign="top">
+          • Neural Networks & Deep Learning<br>
+          • Data Mining & Info Retrieval<br>
+          • Image Processing<br>
+          • Cybersecurity 🔐<br>
+          • Operating Systems<br>
+          • Ethics of AI & Data Science
+        </td>
+        <td valign="top">
+          • Computer Vision 👁️<br>
+          • Cloud Computing ☁️<br>
+          • Data Analysis Applications<br>
+          • Mobile Applications<br>
+          • Research Methods<br>
+          • <i>Summer Field Training</i>
+        </td>
+      </tr>
+    </table>
+  </details>
+
+  <details>
+    <summary><h3>&nbsp;&nbsp;🕓 Level 4: Mastery & Graduation</h3></summary>
+    <br>
+    <table width="95%">
+      <tr>
+        <th width="50%">Term 1 (Semester 7)</th>
+        <th width="50%">Term 2 (Semester 8)</th>
+      </tr>
+      <tr>
+        <td valign="top">
+          • Natural Language Processing (NLP) 🗣️<br>
+          • Internet of Things (IoT) Applications<br>
+          • Elective Course (1)<br>
+          • Elective Course (2)<br>
+          • 🎓 <b>Graduation Project (1)</b>
+        </td>
+        <td valign="top">
+          • Big Data 📊<br>
+          • Elective Course (3)<br>
+          • Elective Course (4)<br>
+          • 🎓 <b>Graduation Project (2)</b>
+        </td>
+      </tr>
+    </table>
+  </details>
+
+</div>
+
+<br>
+<hr style="border: 1px solid #30363D;" />
+<br>
+
+<div align="center">
+
+  <h3>🛠️ Technical Arsenal</h3>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Data_Science-F7931E?style=for-the-badge&logo=google-analytics&logoColor=white" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
+
+  <br>
+
+  <h3>📬 Get in Touch</h3>
+  <p>Open for collaborations, discussions, and AI innovation.</p>
+  
+  <a href="https://wa.me/967780737041">
+    <img src="https://img.shields.io/badge/WhatsApp-Direct_Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white&logoWidth=20&height=40" height="35" />
+  </a>
+  &nbsp;
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Send_Message-EA4335?style=flat-square&logo=gmail&logoColor=white&logoWidth=20&height=40" height="35" />
+  </a>
+
+  <br><br><br>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Moataz-Altriki&label=VISITORS&color=blueviolet&style=for-the-badge" alt="moataz-altriki" />
+  </p>
+  <p align="center" style="color: #8b949e; font-size: 12px;">
+    © 2024 Moataz Al-Triki | Built with Passion & Code
+  </p>
+
+</div>
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=Moataz%20Abdullah%20Al-Triki&fontSize=60&fontColor=E6EDF3&animation=fadeIn&desc=Artificial%20Intelligence%20%26%20Data%20Science&descSize=25&descAlign=50&descAlignY=65&stroke=0099ff&strokeWidth=2" alt="header" />
+
+  <br>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Student+at+Al-Jazeera+University%2C+Yemen+%F0%9F%87%YE;Coding+elegance+since+High+School+%F0%9F%90%8D;Data+Science+%7C+AI+%7C+Problem+Solving;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
+  </a>
+
+</div>
+
+<br>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👨‍⚖️ Professional Summary</h3>
+      <blockquote>
+        "An ambitious <b>AI & Data Science</b> undergraduate at <b>Al-Jazeera University</b>. My journey started early with Python in high school, evolving into a passion for solving complex problems through algorithms and data."
+      </blockquote>
+      
+      <p><b>🎓 Academic Focus:</b></p>
+      <ul>
+        <li><b>Major:</b> Artificial Intelligence & Data Science (B.Sc.)</li>
+        <li><b>Institution:</b> Al-Jazeera University, Ibb - Yemen 🇾🇪</li>
+        <li><b>Current Status:</b> First Year (Freshman)</li>
+      </ul>
+
+      <p><b>🧠 Core Interests:</b></p>
+      <code>Artificial Intelligence</code> . <code>Data Analysis</code> . <code>Research</code> . <code>Reading</code>
+
+    </td>
+    
+    <td width="40%" valign="top">
+      <h3>📈 Live Analytics</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=Moataz-Altriki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="100%" />
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moataz-Altriki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br>
+<hr style="border: 1px solid #30363D;" />
+<br>
+
+<h2 align="center">📜 Comprehensive Academic Curriculum</h2>
+<p align="center"><i>B.Sc. in Artificial Intelligence & Data Science</i></p>
+
+<div align="center">
+  
+  <details>
+    <summary><h3>&nbsp;&nbsp;🕐 Level 1: The Foundation (Current Stage)</h3></summary>
+    <br>
+    <table width="95%">
+      <tr>
+        <th width="50%">Term 1 (Semester 1) 🟡 In Progress</th>
+        <th width="50%">Term 2 (Semester 2) ⏳ Upcoming</th>
+      </tr>
+      <tr>
+        <td valign="top">
+          1. Programming Fundamentals & Problem Solving<br>
+          2. Computer Fundamentals<br>
+          3. Mathematics (1)<br>
+          4. English Language (1)<br>
+          5. Arabic Language (1)<br>
+          6. Islamic Culture<br>
+          7. National Culture
+        </td>
+        <td valign="top">
+          1. Computer Programming<br>
+          2. Computer Networks<br>
+          3. Statistics & Probability<br>
+          4. Mathematics (2)<br>
+          5. English Language (2)<br>
+          6. Arabic Language (2)
+        </td>
+      </tr>
+    </table>
+  </details>
+
+  <details>
+    <summary><h3>&nbsp;&nbsp;🕑 Level 2: Engineering Core</h3></summary>
+    <br>
+    <table width="95%">
+      <tr>
+        <th width="50%">Term 1 (Semester 3)</th>
+        <th width="50%">Term 2 (Semester 4)</th>
+      </tr>
+      <tr>
+        <td valign="top">
+          • Object-Oriented Programming (OOP)<br>
+          • Data Structures & Algorithms 🧬<br>
+          • Database Systems<br>
+          • Principles of Artificial Intelligence 🤖<br>
+          • Fundamentals of Data Science<br>
+          • Discrete Mathematics<br>
+          • Linear Algebra
+        </td>
+        <td valign="top">
+          • Machine Learning 🧠<br>
+          • Analysis & Design of Algorithms<br>
+          • Data Science Analysis<br>
+          • Web Design<br>
+          • Systems Analysis & Design<br>
+          • Human-Computer Interaction (HCI)<br>
+          • Communication Skills
+        </td>
+      </tr>
+    </table>
+  </details>
+
+  <details>
+    <summary><h3>&nbsp;&nbsp;🕒 Level 3: Advanced Specialization</h3></summary>
+    <br>
+    <table width="95%">
+      <tr>
+        <th width="50%">Term 1 (Semester 5)</th>
+        <th width="50%">Term 2 (Semester 6)</th>
+      </tr>
+      <tr>
+        <td valign="top">
+          • Neural Networks & Deep Learning<br>
+          • Data Mining & Info Retrieval<br>
+          • Image Processing<br>
+          • Cybersecurity 🔐<br>
+          • Operating Systems<br>
+          • Ethics of AI & Data Science
+        </td>
+        <td valign="top">
+          • Computer Vision 👁️<br>
+          • Cloud Computing ☁️<br>
+          • Data Analysis Applications<br>
+          • Mobile Applications<br>
+          • Research Methods<br>
+          • <i>Summer Field Training</i>
+        </td>
+      </tr>
+    </table>
+  </details>
+
+  <details>
+    <summary><h3>&nbsp;&nbsp;🕓 Level 4: Mastery & Graduation</h3></summary>
+    <br>
+    <table width="95%">
+      <tr>
+        <th width="50%">Term 1 (Semester 7)</th>
+        <th width="50%">Term 2 (Semester 8)</th>
+      </tr>
+      <tr>
+        <td valign="top">
+          • Natural Language Processing (NLP) 🗣️<br>
+          • Internet of Things (IoT) Applications<br>
+          • Elective Course (1)<br>
+          • Elective Course (2)<br>
+          • 🎓 <b>Graduation Project (1)</b>
+        </td>
+        <td valign="top">
+          • Big Data 📊<br>
+          • Elective Course (3)<br>
+          • Elective Course (4)<br>
+          • 🎓 <b>Graduation Project (2)</b>
+        </td>
+      </tr>
+    </table>
+  </details>
+
+</div>
+
+<br>
+<hr style="border: 1px solid #30363D;" />
+<br>
+
+<div align="center">
+
+  <h3>🛠️ Technical Arsenal</h3>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Data_Science-F7931E?style=for-the-badge&logo=google-analytics&logoColor=white" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
+
+  <br>
+
+  <h3>📬 Get in Touch</h3>
+  <p>Open for collaborations, discussions, and AI innovation.</p>
+  
+  <a href="https://wa.me/967780737041">
+    <img src="https://img.shields.io/badge/WhatsApp-Direct_Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white&logoWidth=20&height=40" height="35" />
+  </a>
+  &nbsp;
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Send_Message-EA4335?style=flat-square&logo=gmail&logoColor=white&logoWidth=20&height=40" height="35" />
+  </a>
+
+  <br><br><br>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Moataz-Altriki&label=VISITORS&color=blueviolet&style=for-the-badge" alt="moataz-altriki" />
+  </p>
+  <p align="center" style="color: #8b949e; font-size: 12px;">
+    © 2024 Moataz Al-Triki | Built with Passion & Code
+  </p>
+
+</div>
           [span_15](start_span)• Data Structures & Algorithms[span_15](end_span)<br>
           [span_16](start_span)• Database Systems[span_16](end_span)<br>
           [span_17](start_span)• Principles of AI[span_17](end_span)<br>
