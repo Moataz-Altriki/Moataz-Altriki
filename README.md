@@ -324,7 +324,7 @@ timeline
 
 ---
 
-<sub>⭐️ Designed with ❤️ by <a href="https://github.com/YOUR_USERNAME">Moataz Al-Turiki</a> | Yemen 🇾🇪</sub>
+<sub>⭐️ Designed with ❤️ by <a href="https://github.com/YOUR_USERNAME"> Moataz-Altriki </a> | Yemen 🇾🇪</sub>
 
 <br/>
 
