@@ -44,14 +44,14 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-### Hello World! I'm **Moataz Abdullah Al-Turiki** 👨‍💻
+### Hello World! I'm **Moataz Abdullah Altriki ** 👨‍💻
 
 I'm a passionate **first-year student** at **Al-Jazeera University** in Ibb, Yemen 🇾🇪, studying at the **Faculty of Science and Engineering**, Department of **Computer Science**, specializing in **Artificial Intelligence and Data Science**.
 
 <br/>
 
 ```yaml
-name: Moataz Abdullah Al-Turiki
+name: Moataz Abdullah Al-Triki
 location: Ibb, Yemen 🇾🇪
 university: Al-Jazeera University
 faculty: Science & Engineering
