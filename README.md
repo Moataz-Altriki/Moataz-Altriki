@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=230&section=header&text=Moataz%20Al-Turiki&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=🎓%20AI%20%26%20Data%20Science%20Student%20%7C%20🇾🇪%20Yemen&descAlignY=50&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=230&section=header&text=Moataz%20Altriki &fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=🎓%20AI%20%26%20Data%20Science%20Student%20%7C%20🇾🇪%20Yemen&descAlignY=50&descSize=22" width="100%"/>
 
 <!-- ANIMATED TYPING -->
 <a href="https://git.io/typing-svg">
